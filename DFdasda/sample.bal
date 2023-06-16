@@ -2,8 +2,8 @@ import ballerina/graphql;
 
 # A service representing a network-accessible GraphQL API
 @display {
-	label: "FTd",
-	id: "FTd-0c2b8c03-32fa-4dd2-af4e-3ee525bf80a5"
+	label: "DFdasda",
+	id: "DFdasda-afd49939-d819-4e0e-b9ec-6f074818f62a"
 }
 service / on new graphql:Listener(8090) {
 
